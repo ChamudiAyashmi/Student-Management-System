@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+
+}
+table{
+    text-align: center;
+    border-radius: 15px;
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+#student-list{
+    width: 250px;
+    height: 500px;
+    border-radius: 15px;
+    background-color: #191970	;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#student-details{
+    width: 350px;
+    height: 500px;
+    background-color: #191970	;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+tr{
+    border-radius: 15px;
+}
+.td1{
+    font-weight: lighter;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+
+}
+.listSelect{
+    padding: 10px;
+    
+}
+.list-grp1{
+  margin-bottom: 5px;
+  border-radius: 10px;
+ 
+}
+.lst-grp{
+    margin-top: 10px;
+    
+}
