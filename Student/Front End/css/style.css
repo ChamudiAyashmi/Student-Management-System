@@ -4,7 +4,7 @@ body{
 }
 table{
     text-align: center;
-    border-radius: 15px;
+    border-radius: 25px;
     background-color: black;
     margin-top: 50px;
     margin-left: 50px;
@@ -18,6 +18,7 @@ table{
     margin-right: 10px;
     margin-left: 10px;
     margin-bottom: 10px;
+    margin-top: 20px;
 }
 #student-details{
     width: 350px;
@@ -26,6 +27,7 @@ table{
     border-radius: 15px;
     margin-right: 10px;
     margin-bottom: 10px;
+    margin-top: 20px;
 }
 tr{
     border-radius: 15px;
@@ -49,4 +51,20 @@ tr{
 .lst-grp{
     margin-top: 10px;
     
+}
+  .st-details{
+    position: absolute;
+    border: solid,2px,white;
+    height: 200px;
+    width: 400px;
+    text-align: left;
+    margin-bottom: 20px;
+}  
+span{
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    position: absolute;
+    margin-right: 25px;
+   
 }
